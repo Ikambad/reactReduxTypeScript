@@ -1,5 +1,7 @@
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+Combining React, Redux, and TypeScript can enhance the robustness and maintainability of your applications. React is a powerful library for building user interfaces, Redux is a predictable state container for JavaScript apps, and TypeScript is a statically typed superset of JavaScript that can catch errors early in the development process. This guide will walk you through setting up a React project with Redux and TypeScript.
 
+This project is for simple react redux with action and reducer file, this is older methods but easy methods to implements.
 # Getting Started
 
 >**Note**: Make sure you have completed the [React Native - Environment Setup](https://reactnative.dev/docs/environment-setup) instructions till "Creating a new application" step, before proceeding.
